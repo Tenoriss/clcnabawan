@@ -1,0 +1,1 @@
+import{a as e,d as t}from"./config-DX6gB6-D.js";import{n,r,t as i}from"./storage-C0Hq2y7A.js";function a(){return i(t.adminSession,null)}function o(n,i){return n.trim().toLowerCase()===e.email&&i===e.password?(r(t.adminSession,{email:e.email,name:e.name}),{ok:!0}):{ok:!1,error:`Email atau kata sandi tidak sesuai.`}}function s(){n(t.adminSession)}export{o as n,s as r,a as t};

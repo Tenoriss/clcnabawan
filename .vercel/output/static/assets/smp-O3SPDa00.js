@@ -1,0 +1,1 @@
+import{v as e}from"./config-DX6gB6-D.js";import{a as t}from"./mock-data-BfaoLAqw.js";import{t as n}from"./SchoolPage-CBQqsEo_.js";var r=e();function i(){return(0,r.jsx)(n,{school:t.SMP})}export{i as component};

@@ -1,0 +1,1 @@
+import{d as e}from"./config-DX6gB6-D.js";import{s as t}from"./mock-data-BfaoLAqw.js";import{r as n,t as r}from"./storage-C0Hq2y7A.js";function i(){return r(e.gallery,null)||(n(e.gallery,t),t)}function a(){return i()}function o(t){n(e.gallery,[t,...i()])}function s(t){n(e.gallery,i().filter(e=>e.id!==t))}export{s as n,a as r,o as t};

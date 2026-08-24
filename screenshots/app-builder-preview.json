@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Yasinta Nabawan Education",
+      "hasCanvas": false,
+      "bodyTextLen": 3390,
+      "bodyTextHash": "8240c5a0ff18981edf46f8b96c9e05599a3ac3ddfd3e404894f502a8b5081f80",
+      "bodyTextPrefix": "Loncat ke konten YASINTA NABAWAN EDUCATION Home About SD SMP Act",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Yasinta Nabawan Education",
+      "hasCanvas": false,
+      "bodyTextLen": 3336,
+      "bodyTextHash": "794f9f72e7960b2c21caf8bfdb20f5c0ef4a1f4ffd0d67ba5948f9f3f5fb9301",
+      "bodyTextPrefix": "Loncat ke konten YASINTA NABAWAN EDUCATION EDUCATION · NABAWAN ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

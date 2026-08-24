@@ -1,0 +1,1 @@
+import{v as e}from"./config-DX6gB6-D.js";import{t}from"./RegistrationWizard-DIc7_QTg.js";var n=e();function r(){return(0,n.jsx)(t,{unit:`SD`})}export{r as component};
